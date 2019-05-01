@@ -1,4 +1,4 @@
-## Desafio 1 - NodeJS
+## Desafio 1 - NodeJS - Rocketseat
 
 Desafio utilizando ExpressJS, Nunjucks, EditorConfig e ESLint.
 
